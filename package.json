@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Romjk3/vkbot/issues"
   },
-  "homepage": "https://github.com/Romjk3/vkbot#readme"
+  "homepage": "https://github.com/Romjk3/vkbot#readme",
+  "dependencies": {
+    "node-vk-bot-api": "^2.1.8"
+  }
 }
